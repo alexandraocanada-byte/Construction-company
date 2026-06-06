@@ -1,0 +1,6 @@
+{
+  "name": "Lockr Inc. Toronto",
+  "description": "Premium, LGBTQ+ friendly home renovation, remodeling, and custom carpentry services in Toronto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
